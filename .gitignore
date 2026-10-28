@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.part
+A_Cyber-Resilient*.pdf
+.directory
+check-reqs.zsh
