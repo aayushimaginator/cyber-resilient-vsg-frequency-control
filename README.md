@@ -39,7 +39,7 @@ Max |w| in the final 0.5 s of a constant-bias attack (rad/s):
 ## Run
     octave --no-gui jamali_vsg_demo.m
 
-Works in Octave or MATLAB. The paper's PDF is not included (IEEE copyright).
+Works in Octave or MATLAB. The paper's PDF is not included due to IEEE copyright.
 
 ## Author
 Aayush, EEE @ NIT Goa
